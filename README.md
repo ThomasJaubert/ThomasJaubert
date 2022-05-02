@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThomasJaubert
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning CS and microelectronics
+- 💞️ I’m looking to collaborate on any project 
